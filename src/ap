@@ -1,3 +1,0 @@
-//apikey ="636e1481b4f3c446d26b8eb6ebfe7127";
-//https://farm${farm}.staticflickr.com/${server}/${id}_${secret}_m.png
-//`htttps://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=${apikey}&tags=${search}&per_page=24&format=json&jsonca11back=1`
